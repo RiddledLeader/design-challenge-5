@@ -1,0 +1,16 @@
+body {
+    grid-gap: 25px;    /* Improve the white space */
+}
+
+.content {
+    background: grey;  /* Improve the color/contrast */
+    padding: 10px;     /* Improve the white space */
+}
+
+h1 {
+    margin-left: 0em;  /* Improve the alignment */
+    font-size: 20px;   /* Improve the visual hierarchy */
+}
+h3 {
+    color: #014BCB
+}
